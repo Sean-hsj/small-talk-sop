@@ -42,6 +42,9 @@ Use the scoring rubric and release gate in [docs/review-loop.md](docs/review-loo
 - Label regional and organizational variation.
 - Separate observation from stereotype: “This team uses first names” is useful; “Americans are informal” is too broad.
 - Translate meaning only when appropriate. Do not force one-to-one symmetry between the two guides.
+- On bilingual landing pages, give each language its own paragraph or section. Do not attach a Chinese translation to every English heading or sentence.
+- Write Chinese from the situation outward: who is speaking, what happened, and what to do next. Prefer concrete verbs such as “别追问” over abstract labels such as “降低互动强度.”
+- Contemporary is good; disposable slang is not. Avoid wording that depends on “i 人/e 人,” memes, or short-lived platform language.
 
 ## Visual and interaction contributions
 
