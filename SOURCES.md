@@ -52,6 +52,7 @@ The repository deliberately adopts a preventive standard that may be stricter th
 - [EEOC, “National Origin Discrimination”](https://www.eeoc.gov/national-origin-discrimination) — National origin, ethnicity, and accent-related discrimination and harassment.
 - [EEOC, “Religious Discrimination”](https://www.eeoc.gov/religious-discrimination) — Religious practice, dress, harassment, and accommodation.
 - [EEOC, “Disability Discrimination”](https://www.eeoc.gov/disability-discrimination) — Disability discrimination and accommodation entry point.
+- [EEOC, “Age Discrimination”](https://www.eeoc.gov/age-discrimination) — U.S. age-discrimination overview; supports avoiding age-based assumptions about ability, opportunity, and retirement.
 - [U.S. Supreme Court, Bostock v. Clayton County](https://www.supremecourt.gov/opinions/19pdf/17-1618_hfci.pdf) — U.S. Title VII decision concerning sexual orientation and transgender status.
 - [U.S. National Labor Relations Board, “Your Right to Discuss Wages”](https://www.nlrb.gov/about-nlrb/rights-we-protect/your-rights/your-rights-to-discuss-wages) — Important safeguard against misusing etiquette rules to suppress protected discussion of pay, hours, working conditions, or concerted activity.
 
@@ -59,6 +60,7 @@ The repository deliberately adopts a preventive standard that may be stricter th
 
 - [Acas, “Discrimination and the law”](https://www.acas.org.uk/discrimination-and-the-law) — UK overview of protected characteristics, discrimination, harassment, and employer responsibilities.
 - [Acas, “Neurodiversity at work”](https://www.acas.org.uk/neurodiversity-at-work) — Individual differences, communication, masking, sensory needs, and avoiding assumptions.
+- [Acas, “Age discrimination”](https://www.acas.org.uk/age-discrimination) — UK workplace age-discrimination overview and examples across recruitment, training, pay, promotion, and dismissal.
 - [UK Information Commissioner’s Office, “Special category data”](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/lawful-basis/special-category-data/what-is-special-category-data/) — Health, race, political opinion, religion, sex life, and sexual orientation as high-risk data categories under UK GDPR.
 - [UK Health and Safety Executive, “Managing drug and alcohol misuse at work”](https://www.hse.gov.uk/alcoholdrugs/develop-policy.htm) — Workplace policy and support context for alcohol risk.
 - [Canadian Centre for Occupational Health and Safety, “Bullying in the Workplace”](https://www.ccohs.ca/oshanswers/psychosocial/bullying.html) — Gossip, isolation, offensive jokes, privacy intrusion, and responses to uncomfortable conduct.

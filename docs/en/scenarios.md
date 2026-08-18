@@ -268,6 +268,92 @@ Your colleague types a response on an augmentative and alternative communication
 
 **Avoid:** Speaking only to a companion, assuming reduced understanding, or rushing because the response takes longer.
 
+## 30. Monday with a peer
+
+**You:** “How was your weekend?”
+
+**Them:** “Good. Mostly stayed home.”
+
+**You:** “Nice. Mine was quiet too. I’ll let you get settled.”
+
+**Why:** A broad answer stays broad. Do not ask who they live with, whether they are single, or why they did not go out.
+
+## 31. A colleague has mentioned a child
+
+**Them:** “My daughter had her first football match.”
+
+**You:** “That’s a big first. How did she find it?”
+
+**Avoid:** School cost, grades, custody, parenting judgment, or asking when they will have another child.
+
+## 32. One-to-one lunch with your manager
+
+**Before lunch:** “Is this mainly a casual lunch, or should I bring anything for a work discussion?”
+
+The manager introduces unexpected performance feedback.
+
+**You:** “I’d like to give this proper attention. Could we continue it in our scheduled one-to-one?”
+
+**Why:** Food and informality should not remove normal feedback structure.
+
+## 33. Manager invites a direct report to lunch
+
+**Manager:** “I’m getting lunch at 12:30. You’re welcome to join, but it is optional and not a performance conversation.”
+
+**Employee:** “Thanks. I’m taking a quiet lunch today.”
+
+**Manager:** “Of course. See you this afternoon.”
+
+Important decisions still return to the team channel.
+
+## 34. Coffee queue with your manager +2
+
+**You:** “Good morning. I found the customer example in the town hall useful.”
+
+**Senior leader:** “Glad to hear it.”
+
+**You:** “Enjoy your coffee—I’ll let you get on.”
+
+**Avoid:** A surprise promotion pitch, complaint, or request for an immediate decision.
+
+## 35. Deputy and matrix managers disagree
+
+You meet one manager during a break.
+
+**Good move:** “I have two different priority instructions. I’ll set up a short work conversation with both of you rather than use the break.”
+
+**Avoid:** Asking which manager has more power or using casual remarks as authorization.
+
+## 36. Three-person lunch becomes a two-person story
+
+Two colleagues keep saying, “Remember when…” while the third has no context.
+
+**Good move:** “We should give Maya the context. We were talking about last year’s launch. Maya, have you seen the new version?”
+
+**Avoid:** Putting Maya on the spot with a personal question merely to compensate.
+
+## 37. Age stereotype around technology
+
+**Risky:** “This new system must be hard for people your age.”
+
+**Better:** “How is the new system working for you?” Ask the same question across the team.
+
+Experience, speed, and preference are individual. Do not assume ability from age.
+
+## 38. Cross-gender mentoring and “optics”
+
+A manager offers informal mentoring to men but avoids women because one-to-one meetings might “look wrong.”
+
+**Good move:** Offer equal access with transparent scheduling, professional locations, a clear purpose, and the same boundaries for everyone.
+
+**Why:** Safety is not achieved by excluding a gender from development.
+
+## 39. Return from leave when the reason is unknown
+
+**You:** “Good to see you back. Would you like the quick update, or some time to settle in?”
+
+**Avoid:** “How was your vacation?” The absence may have involved health, grief, caregiving, or another private reason.
+
 ## Facilitator scorecard
 
 After a role-play, score 0–2 for each:

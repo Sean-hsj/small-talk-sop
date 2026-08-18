@@ -134,3 +134,7 @@ The automated documentation check verifies required files, internal links and an
 | 4 | Adversarial script test | Short replies, awkward silence, grief, gossip, alcohol, misnaming, intrusive questions, remote messages, and unwanted flirting handled |
 
 The final numerical scores, gate results, stress tests, validation output, external-link audit, changes between review rounds, and limitations are recorded in the [v1.0.0 review report](review-report-v1.0.md). Future releases must add their own record rather than overwriting this one.
+
+## Refinement review record: v1.1.0
+
+The role, reporting-line, occasion, meal-size, gender/identity, age, and voluntarily disclosed life-stage refinement is recorded in the [v1.1.0 review report](review-report-v1.1.md). It supplements rather than overwrites the v1.0.0 record.

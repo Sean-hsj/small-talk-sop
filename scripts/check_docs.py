@@ -17,16 +17,20 @@ REQUIRED = [
     "docs/cross-cultural-guide.md",
     "docs/review-loop.md",
     "docs/review-report-v1.0.md",
+    "docs/review-report-v1.1.md",
     "docs/en/sop.md",
+    "docs/en/role-scenario-matrix.md",
     "docs/en/quick-reference.md",
     "docs/en/scenarios.md",
     "docs/zh-CN/sop.md",
+    "docs/zh-CN/role-scenario-matrix.md",
     "docs/zh-CN/quick-reference.md",
     "docs/zh-CN/scenarios.md",
 ]
 LINK_RE = re.compile(r"(?<!!)\[[^\]]+\]\(([^)]+)\)")
 HEADING_RE = re.compile(r"^#{1,6}\s+(.+?)\s*$", re.MULTILINE)
 PLACEHOLDER_RE = re.compile(r"\b(?:TODO|TBD|FIXME)\b", re.IGNORECASE)
+SCENARIO_RE = re.compile(r"^## (\d+)\.\s+", re.MULTILINE)
 
 
 def slugify(heading: str) -> str:
@@ -91,11 +95,14 @@ def main() -> int:
                 errors.append(issue)
 
     required_phrases = {
-        "README.md": ["English SOP", "中文版 SOP", "Version: 1.0.0"],
+        "README.md": ["English SOP", "中文版 SOP", "Version: 1.1.0"],
         "docs/en/sop.md": ["Scan", "Ask lightly", "Exit cleanly", "manager"],
         "docs/zh-CN/sop.md": ["看场", "开口", "接球", "收尾", "管理者"],
         "docs/review-loop.md": ["90/100", "Critical safety gates"],
         "docs/review-report-v1.0.md": ["97/100", "8/8", "44/44", "Final decision"],
+        "docs/review-report-v1.1.md": ["97/100", "Role coverage", "16/16", "Final decision"],
+        "docs/en/role-scenario-matrix.md": ["Manager +1 or +2", "Gender and identity", "Meal size and purpose"],
+        "docs/zh-CN/role-scenario-matrix.md": ["加一或加二", "性别：不按男女分话题", "聚餐人数与性质"],
         "SOURCES.md": ["2026-08-18", "legal advice"],
     }
     for relative, phrases in required_phrases.items():
@@ -106,6 +113,26 @@ def main() -> int:
         for phrase in phrases:
             if phrase not in text:
                 errors.append(f"{relative}: missing required phrase: {phrase}")
+
+    for relative in ["docs/en/scenarios.md", "docs/zh-CN/scenarios.md"]:
+        text = (ROOT / relative).read_text(encoding="utf-8")
+        numbers = [int(value) for value in SCENARIO_RE.findall(text)]
+        if numbers != list(range(1, len(numbers) + 1)):
+            errors.append(f"{relative}: scenario numbers are not sequential")
+
+    refined_files = [
+        "docs/en/role-scenario-matrix.md",
+        "docs/zh-CN/role-scenario-matrix.md",
+        "docs/review-report-v1.1.md",
+    ]
+    for relative in refined_files:
+        for line_number, line in enumerate(
+            (ROOT / relative).read_text(encoding="utf-8").splitlines(), start=1
+        ):
+            if len(line) > 240:
+                errors.append(
+                    f"{relative}:{line_number}: refined paragraph exceeds 240 characters"
+                )
 
     if errors:
         print("Documentation checks failed:")

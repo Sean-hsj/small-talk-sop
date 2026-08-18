@@ -12,8 +12,8 @@ An open, practice-ready, reviewable playbook for people who do not know what to 
 
 | Guide | Designed for | Start here |
 | --- | --- | --- |
-| English SOP | International workplaces and multinational teams, including foreign companies in China | [Full SOP](docs/en/sop.md) · [One-minute card](docs/en/quick-reference.md) · [Practice scenarios](docs/en/scenarios.md) |
-| 中文版 SOP | 中国职场，包括本土企业、事业单位风格团队及中文沟通场景 | [完整 SOP](docs/zh-CN/sop.md) · [一分钟速查](docs/zh-CN/quick-reference.md) · [情景练习](docs/zh-CN/scenarios.md) |
+| English SOP | International workplaces and multinational teams, including foreign companies in China | [Full SOP](docs/en/sop.md) · [Role × scenario matrix](docs/en/role-scenario-matrix.md) · [One-minute card](docs/en/quick-reference.md) · [Practice scenarios](docs/en/scenarios.md) |
+| 中文版 SOP | 中国职场，包括本土企业、事业单位风格团队及中文沟通场景 | [完整 SOP](docs/zh-CN/sop.md) · [角色 × 场景矩阵](docs/zh-CN/role-scenario-matrix.md) · [一分钟速查](docs/zh-CN/quick-reference.md) · [情景练习](docs/zh-CN/scenarios.md) |
 
 The two guides share safety principles, but they are not line-by-line translations. Their greetings, titles, hierarchy cues, indirect refusals, meal culture, chat etiquette, and examples are designed independently for their default environments.
 
@@ -55,11 +55,12 @@ Example: “Morning, Maya. How’s your week going?” → “That deadline soun
 
 - Full operating procedures for choosing a moment, opening, listening, following up, changing topics, and exiting
 - Separate English and Chinese topic ladders, workplace-culture notes, and natural scripts
+- Role, reporting-line, occasion, meal-size, and voluntarily disclosed life-stage matrices
 - In-person, remote, hybrid, cross-level, client, meal, group-chat, and return-from-leave scenarios
 - Boundaries for privacy, harassment, discrimination, gossip, alcohol, health, family, religion, and politics
 - Accommodations for introversion, social anxiety, neurodiversity, disability, limited energy, and second-language use
 - Recovery scripts for awkward silence, forgotten names, accidental offense, and unwanted questions
-- A documented [research and review loop](docs/review-loop.md), [v1.0 review report](docs/review-report-v1.0.md), [cross-cultural design notes](docs/cross-cultural-guide.md), and [source register](SOURCES.md)
+- A documented [research and review loop](docs/review-loop.md), [latest refinement review](docs/review-report-v1.1.md), [v1.0 review report](docs/review-report-v1.0.md), [cross-cultural design notes](docs/cross-cultural-guide.md), and [source register](SOURCES.md)
 
 ## What this SOP is not
 
@@ -76,7 +77,7 @@ If local norms or company rules conflict with this repository, follow the strict
 
 ## Version and status
 
-- Version: 1.0.0
+- Version: 1.1.0
 - Last substantive review: 2026-08-18
 - Default locale: English for international/multinational workplaces; 简体中文 for workplaces communicating primarily in Chinese in mainland China
 - License: [MIT](LICENSE)

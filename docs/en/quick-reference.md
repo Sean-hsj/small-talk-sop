@@ -19,6 +19,16 @@ Use in international and multinational workplaces. Individual and team preferenc
 
 One short answer may be style. Two low-engagement signals mean lower intensity or exit. Never make someone refuse twice.
 
+## Choose the relationship first
+
+- **Peer:** balance asking and sharing.
+- **Direct report:** lighter topic, credible opt-out, no hidden evaluation.
+- **Manager:** be natural; state work requests early.
+- **Manager +1/+2:** one public-context line, then exit or schedule.
+- **Deputy/matrix manager:** respect the actual remit; clarify conflicting lines formally.
+
+For gender, age, partner, marriage, or children, use only what the person volunteered. See the [role × scenario matrix](role-scenario-matrix.md).
+
 ## Topic ladder
 
 ### Usually low pressure
