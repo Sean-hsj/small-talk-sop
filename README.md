@@ -4,12 +4,12 @@
 
 <p align="center">
   <strong>职场寒暄操作手册</strong><br>
-  A bilingual, practice-ready playbook for people who never know what to say next.<br>
-  不教你“会来事”，只帮你把第一句、下一句和最后一句说自然。
+  A bilingual workplace small-talk guide for English- and Chinese-speaking teams.<br>
+  一份中英双语职场寒暄指南。
 </p>
 
 <p align="center">
-  <img alt="Version 1.4.0" src="https://img.shields.io/badge/version-1.4.0-0B45B5?style=flat-square">
+  <img alt="Version 1.5.0" src="https://img.shields.io/badge/version-1.5.0-0B45B5?style=flat-square">
   <img alt="English and Simplified Chinese" src="https://img.shields.io/badge/languages-English%20%2B%20简体中文-111111?style=flat-square">
   <img alt="Reviewed for safety and accessibility" src="https://img.shields.io/badge/review-safety%20%2B%20accessibility-0B45B5?style=flat-square">
   <a href="LICENSE"><img alt="MIT License" src="https://img.shields.io/badge/license-MIT-111111?style=flat-square"></a>
@@ -27,7 +27,7 @@
 > Small talk is not a performance or a way to extract private information. It is a brief, optional signal: “I noticed you, I’m approachable, and there is no pressure to keep talking.”
 
 > [!TIP]
-> 寒暄没那么玄。碰见了就打个招呼，聊得来多说两句，接不上也别硬撑。重点不是问出多少私事，而是下次见面不尴尬、合作时好开口。
+> 这里整理了职场里常见的开场、接话和收尾，也包括上下级、饭局、休假返岗等场景中的分寸和边界。
 
 ## 01 · Start here
 
@@ -41,15 +41,15 @@
 
 ### 中文入口
 
-- 第一次看，先从[中文版主 SOP](docs/zh-CN/sop.md)开始，不用一次读完。
-- 卡在称呼、饭局、返岗或上下级场景，直接查[角色 × 场景矩阵](docs/zh-CN/role-scenario-matrix.md)。
-- 不知道怎么和说话风格完全不同的领导打交道，看[怎么和不同沟通风格的上级说话](docs/zh-CN/manager-style-addon.md)。
-- 临时想看一句怎么说，打开[一分钟速查](docs/zh-CN/quick-reference.md)。
-- 想先练几遍，就从 [43 个情景](docs/zh-CN/scenarios.md)里随便挑一个。
+- [中文版主 SOP](docs/zh-CN/sop.md)：从开场、接话到收尾的完整流程。
+- [角色 × 场景矩阵](docs/zh-CN/role-scenario-matrix.md)：称呼、饭局、返岗、上下级等具体情况。
+- [怎么和不同沟通风格的上级说话](docs/zh-CN/manager-style-addon.md)：不同沟通节奏、反馈方式和决策习惯下的相处思路。
+- [一分钟速查](docs/zh-CN/quick-reference.md)：适合临时翻看的句子和提醒。
+- [43 个情景](docs/zh-CN/scenarios.md)：可以单独练习，也可以和同事对练。
 
 The two guides share safety principles but are not line-by-line translations. Titles, hierarchy cues, indirect refusals, meal culture, chat etiquette, and examples are designed independently for their default workplaces.
 
-中文版不是英文稿的译本。国内团队怎么称呼、怎么婉拒、饭桌上哪里容易尴尬，就按中文职场自己的逻辑来写；该不一样的地方，不硬凑对应。
+中文版围绕中文职场里的称呼、婉拒、饭局和沟通习惯单独编写。英文版和中文版遵循相同的安全边界，例子和表达不做逐句对应。
 
 ## 02 · Try one now
 
@@ -77,14 +77,14 @@ Ask about this task. Do not diagnose a personality type, imitate mannerisms, or 
 
 ### 中文小练习
 
-先别急着看答案。想想你平时会怎么回，再点开看看怎么接更稳妥。
+下面是两个可以直接展开的场景。折叠内容里放了参考说法，以及这样接话的理由。
 
 <details>
 <summary><strong>茶水间 · 对方只回“还行”</strong>——接下来该说什么？</summary>
 
 > “那就好。你先忙，我去接杯水。”
 
-对方回得短，眼睛又转回去了，基本就是不想展开。顺手收尾就行，别再开新话题。
+对方回得短，注意力也回到别处，通常是在结束话题。参考回答因此只保留一句简单的收尾。
 
 </details>
 
@@ -93,7 +93,7 @@ Ask about this task. Do not diagnose a personality type, imitate mannerisms, or 
 
 > “好，下午见。”
 
-不用问原因，也别起哄挽留。能让人说走就走、不用交代理由，才叫自愿。
+“下午见”把对话停在这里。对方可以按自己的节奏离开，也不需要当场解释原因。
 
 </details>
 
@@ -110,10 +110,10 @@ Ask about this task. Do not diagnose a personality type, imitate mannerisms, or 
 
 ### 中文版：看—开—接—收
 
-1. **看场**——先看人家有没有空，也看你们熟不熟、是不是上下级。
-2. **开口**——从眼前的事说起，问题别太私。
-3. **接球**——顺着对方愿意说的那一点聊；最多追问一次，也说点自己。
-4. **收尾**——差不多就收，别把寒暄聊成任务。
+1. **看场**——对方有没有空、彼此熟不熟、是不是上下级。
+2. **开口**——眼前共同经历的事最容易接，话题保持轻一点。
+3. **接球**——顺着对方愿意说的部分聊一两句，也分享一点自己的情况。
+4. **收尾**——一段寒暄可以很短，话题自然停下就结束。
 
 > “早，今天路上还顺利吗？” → “那还挺幸运，我差点没挤上车。” → “你先忙，回头见。”
 
@@ -129,20 +129,20 @@ Ask about this task. Do not diagnose a personality type, imitate mannerisms, or 
 6. **Private stays private.** Do not repeat, nickname, gossip about, screenshot, or feed a personal detail into an unapproved tool.
 7. **Repair once, then change course.** “Sorry—that was too personal. You don’t need to answer.”
 
-### 中文版先记住这七句
+### 中文版：七条边界
 
-1. **对方不接，就到这里。** 短答、不回问、转回屏幕，都是在收尾。别逼人明确拒绝第二次。
-2. **领导问和同事问，分量不一样。** 你越能影响对方的工作和考核，越要少问私事。
-3. **别只顾着问。** 问一两句，也说点自己，不要把聊天弄成采访。
-4. **别觉得聊周末、吃饭、家里就肯定没事。** 这些也可能碰到别人不想说的难处。
-5. **别看外表猜人家的身份和生活。** 年龄、婚姻、孩子、健康、籍贯，都别靠猜。
-6. **私下听到的，别带到群里。** 能看见朋友圈，也不等于能拿到公司里聊。
-7. **问过头就道歉，然后换题。** 一句“刚才问得有点私人，不用回答”就够了。
+1. **短答也是回答。** 不回问、转回屏幕或反复推迟，通常表示对方准备结束；不需要等对方明确拒绝第二次。
+2. **上下级之间，同一句话分量不同。** 能影响对方工作和考核的一方，在私人话题上需要更克制。
+3. **聊天不是连续提问。** 问一两句，也分享一点自己的情况，交流会更平衡。
+4. **日常话题也可能让人为难。** 周末、吃饭和家里这些话题，也可能碰到别人不想说的难处。
+5. **外表不能说明一个人的生活。** 年龄、婚姻、孩子、健康、籍贯等情况，不适合靠外表或姓名猜。
+6. **私下的信息仍然是私下的。** 看得到朋友圈，不代表适合拿到公司群里聊。
+7. **问得太私人，可以把话收回来。** 一句“刚才问得有点私人，不用回答”已经足够，之后换个话题。
 
 > [!IMPORTANT]
 > Repeated sexual, discriminatory, coercive, retaliatory, or threatening conduct is not awkward small talk. Use workplace policy, safety, representation, or appropriate external channels. This repository is not legal or crisis advice.
 
-如果已经涉及性意味、歧视、逼迫、报复或威胁，就别再当成“聊天有点尴尬”。该找 HR、安全部门、工会或职工代表，或者向外部机构求助时，就走正式渠道。
+涉及性意味、歧视、逼迫、报复或威胁时，问题已经超出普通寒暄的范围。HR、安全部门、工会或职工代表，以及合适的外部机构，都是可以使用的正式支持渠道。
 
 ## 05 · Repository map
 
@@ -158,7 +158,7 @@ Ask about this task. Do not diagnose a personality type, imitate mannerisms, or 
 
 The SOP supports introversion, social anxiety, neurodiversity, disability, limited energy, AAC, and second-language use. Work access must never depend on sociability, camera use, event attendance, alcohol, or personal disclosure.
 
-中文读者不用从头背到尾。最省事的用法，是把[一分钟速查](docs/zh-CN/quick-reference.md)放在手边；真碰到饭局、领导或返岗，再去查对应章节。
+中文版各章节可以单独阅读。[一分钟速查](docs/zh-CN/quick-reference.md)适合临时翻看；饭局、领导或返岗等情况，在对应章节里有更完整的例子。
 
 ## 06 · Use it without making it weird
 
@@ -167,18 +167,18 @@ The SOP supports introversion, social anxiety, neurodiversity, disability, limit
 - **As a manager:** read the power and inclusion rules before inviting anyone to socialize.
 - **As a team:** rotate formats and keep decisions in official work channels. Always offer a quiet, remote, or no-social option.
 
-### 中文版怎么用
+### 中文版使用方式
 
-- **自己练：** 一次挑一个场景，先说出自己的版本，再看参考答案。
-- **和同事练：** 演三十秒就停，重点看有没有追问过头、能不能自然收尾。
-- **管理者使用：** 先读权力和隐私部分，别把这套 SOP 变成新的“情商考核”。
-- **团队使用：** 重要决定照常回到工作渠道，也要给不聚餐、不开镜头和想安静的人留位置。
+- **个人练习：** 每次挑一个场景，说出自己的版本后再对照参考答案。
+- **同事对练：** 可以采用三十秒的短场景，重点放在追问的分寸和自然收尾。
+- **管理者：** 权力和隐私部分适合作为起点；这套 SOP 不作为新的“情商考核”。
+- **团队：** 重要决定仍然回到正式工作渠道，同时保留不聚餐、不打开镜头和安静参与的选择。
 
 If local norms or company rules conflict with this repository, follow the stricter safety standard and propose an evidence-backed update through [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## 07 · Scope, status, and license
 
-- **Version:** 1.4.0
+- **Version:** 1.5.0
 - **Last substantive content review:** 2026-08-18
 - **Last visual and accessibility review:** 2026-08-18
 - **Last Chinese homepage voice review:** 2026-08-18
@@ -189,7 +189,3 @@ If local norms or company rules conflict with this repository, follow the strict
 This is guidance, not a personality test, a guarantee that every colleague wants to talk, or a substitute for company policy, local law, or professional support.
 
 Person, team, industry, company, region, and relationship matter more than nationality alone.
-
-<p align="center">
-  <strong>会聊两句，也会及时打住。</strong>
-</p>

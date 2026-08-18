@@ -45,6 +45,8 @@ Use the scoring rubric and release gate in [docs/review-loop.md](docs/review-loo
 - On bilingual landing pages, give each language its own paragraph or section. Do not attach a Chinese translation to every English heading or sentence.
 - Write Chinese from the situation outward: who is speaking, what happened, and what to do next. Prefer concrete verbs such as “别追问” over abstract labels such as “降低互动强度.”
 - Contemporary is good; disposable slang is not. Avoid wording that depends on “i 人/e 人,” memes, or short-lived platform language.
+- Address readers as capable adults. Use neutral descriptions for introductions, navigation, and examples; avoid “不教你……只帮你……,” “先记住……,” or other language that invents a reader deficiency before offering help.
+- Use direct instructions sparingly. They belong in consent, privacy, harassment, or safety boundaries—not in slogans or routine navigation.
 
 ## Visual and interaction contributions
 

@@ -22,6 +22,7 @@ REQUIRED = [
     "docs/review-report-v1.2.md",
     "docs/review-report-v1.3.md",
     "docs/review-report-v1.4.md",
+    "docs/review-report-v1.5.md",
     "docs/en/sop.md",
     "docs/en/role-scenario-matrix.md",
     "docs/en/manager-style-addon.md",
@@ -148,7 +149,7 @@ def main() -> int:
                 errors.append(issue)
 
     required_phrases = {
-        "README.md": ["English track", "中文入口", "English exercise", "中文小练习", "Version 1.4.0", "<details>"],
+        "README.md": ["English track", "中文入口", "English exercise", "中文小练习", "Version 1.5.0", "<details>"],
         "assets/illustrations/README.md": ["pure white", "Prompt set", "1.2 MB"],
         "docs/en/sop.md": ["Scan", "Ask lightly", "Exit cleanly", "Manager add-on"],
         "docs/zh-CN/sop.md": ["看场", "开口", "接球", "收尾", "管理者沟通偏好附加章"],
@@ -158,6 +159,7 @@ def main() -> int:
         "docs/review-report-v1.2.md": ["97", "14/14", "10/10", "Final decision"],
         "docs/review-report-v1.3.md": ["97", "14/14", "GitHub rendering", "Final decision"],
         "docs/review-report-v1.4.md": ["97", "12/12", "translationese", "Final decision"],
+        "docs/review-report-v1.5.md": ["96", "12/12", "paternalistic", "Final decision"],
         "docs/en/role-scenario-matrix.md": ["Manager +1 or +2", "Gender and identity", "Meal size and purpose"],
         "docs/zh-CN/role-scenario-matrix.md": ["加一或加二", "性别：不按男女分话题", "聚餐人数与性质"],
         "docs/en/manager-style-addon.md": ["OHAIR", "Unsafe behavior is not a style", "Add-on release gates"],
@@ -189,6 +191,7 @@ def main() -> int:
         "docs/review-report-v1.2.md",
         "docs/review-report-v1.3.md",
         "docs/review-report-v1.4.md",
+        "docs/review-report-v1.5.md",
     ]
     for relative in refined_files:
         for line_number, line in enumerate(
@@ -207,6 +210,12 @@ def main() -> int:
         "中性默认",
         "社交带宽",
         "重新校准",
+        "不教你“会来事”",
+        "只帮你把第一句",
+        "寒暄没那么玄",
+        "先别急着看答案",
+        "中文版先记住这七句",
+        "中文读者不用从头背到尾",
     ]
     for phrase in stale_homepage_phrases:
         if phrase in readme:

@@ -156,3 +156,9 @@ Visual changes must preserve text parity, meaningful alt text, optional interact
 The README bilingual structure, independent Chinese copy, translationese removal, safety-meaning regression, and GitHub rendering checks are recorded in the [v1.4.0 review report](review-report-v1.4.md).
 
 Future bilingual landing-page changes must keep Chinese and English in separate sections where practical. Chinese should be written for the situation, not attached sentence by sentence to the English source.
+
+## Chinese homepage tone review: v1.5.0
+
+The removal of paternalistic framing, deficit-based reader assumptions, unnecessary imperatives, and slogan-like Chinese homepage copy is recorded in the [v1.5.0 review report](review-report-v1.5.md).
+
+Future homepage introductions and navigation should describe the guide and its contents directly. Imperatives are reserved for boundaries where consent, privacy, power, harassment, or safety require clarity.
