@@ -138,3 +138,9 @@ The final numerical scores, gate results, stress tests, validation output, exter
 ## Refinement review record: v1.1.0
 
 The role, reporting-line, occasion, meal-size, gender/identity, age, and voluntarily disclosed life-stage refinement is recorded in the [v1.1.0 review report](review-report-v1.1.md). It supplements rather than overwrites the v1.0.0 record.
+
+## Add-on review record: v1.2.0
+
+The optional manager communication-style model, bilingual scripts, rejection of fixed personality types, audit rounds, 14 adversarial tests, and 10 release gates are recorded in the [v1.2.0 review report](review-report-v1.2.md).
+
+Any future change to the add-on must rerun all 10 add-on gates. A diagnosis, identity stereotype, appeasement tactic, abuse-as-style exception, or missing preference-check loop blocks release.

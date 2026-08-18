@@ -29,6 +29,8 @@ One short answer may be style. Two low-engagement signals mean lower intensity o
 
 For gender, age, partner, marriage, or children, use only what the person volunteered. See the [role × scenario matrix](role-scenario-matrix.md).
 
+For a manager's repeated work preferences, use Observe → Hypothesize → Ask → Implement → Recalibrate. See the optional [manager style add-on](manager-style-addon.md). Never diagnose a type.
+
 ## Topic ladder
 
 ### Usually low pressure
@@ -113,6 +115,8 @@ No topic is automatically safe. Follow the person, not the category.
 ## Manager rule
 
 More power means lighter topics and clearer exits. Never link social disclosure, camera use, event attendance, alcohol, or chat activity to work opportunity.
+
+Adapt length, order, pace, detail, or channel—not facts, ethics, consent, or necessary disagreement. Abuse, discrimination, retaliation, and unsafe demands are not communication styles.
 
 ## Emergency brake
 

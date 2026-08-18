@@ -25,6 +25,13 @@ The repository deliberately adopts a preventive standard that may be stricter th
 - [Brooks et al., “It Doesn’t Hurt to Ask: Question-Asking Increases Liking”](https://doi.org/10.1037/pspi0000097) — Supports responsive follow-up questions. This repository adds the one-thread, reciprocity, and stop-signal safeguards to avoid interrogation.
 - [Edmondson, “Psychological Safety and Learning Behavior in Work Teams”](https://doi.org/10.2307/2666999) — Supports an environment where people can speak, question, and admit difficulty without interpersonal punishment; used here to strengthen manager responsibility and credible opt-outs.
 
+### Personality research and the manager-style add-on
+
+- [Judge, Bono, Ilies & Gerhardt, “Personality and Leadership: A Qualitative and Quantitative Review”](https://doi.org/10.1037/0021-9010.87.4.765) — Meta-analysis used only as background for dimensional, probabilistic research. It does not validate assigning a manager a type or mapping a trait score to a script.
+- [Barrick & Mount, “The Big Five Personality Dimensions and Job Performance: A Meta-Analysis”](https://doi.org/10.1111/j.1744-6570.1991.tb00688.x) — Workplace personality background. It is not evidence that identity, one interaction, or a fixed typology predicts how a manager should be addressed.
+
+The six dimensions in the add-on are an editorial observation and preference-check framework, not a psychometric instrument. No Big Five score is inferred, recorded, or converted into advice.
+
 ### Practical conversation and remote-work guidance
 
 - [British Council, “Relationship-building”](https://learnenglish.britishcouncil.org/free-resources/business/podcasts-professionals/relationship-building) — Greetings, interests, listening, questions, and relationship maintenance for business English.

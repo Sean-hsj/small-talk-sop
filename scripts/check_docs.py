@@ -18,12 +18,15 @@ REQUIRED = [
     "docs/review-loop.md",
     "docs/review-report-v1.0.md",
     "docs/review-report-v1.1.md",
+    "docs/review-report-v1.2.md",
     "docs/en/sop.md",
     "docs/en/role-scenario-matrix.md",
+    "docs/en/manager-style-addon.md",
     "docs/en/quick-reference.md",
     "docs/en/scenarios.md",
     "docs/zh-CN/sop.md",
     "docs/zh-CN/role-scenario-matrix.md",
+    "docs/zh-CN/manager-style-addon.md",
     "docs/zh-CN/quick-reference.md",
     "docs/zh-CN/scenarios.md",
 ]
@@ -95,15 +98,18 @@ def main() -> int:
                 errors.append(issue)
 
     required_phrases = {
-        "README.md": ["English SOP", "中文版 SOP", "Version: 1.1.0"],
-        "docs/en/sop.md": ["Scan", "Ask lightly", "Exit cleanly", "manager"],
-        "docs/zh-CN/sop.md": ["看场", "开口", "接球", "收尾", "管理者"],
+        "README.md": ["English SOP", "中文版 SOP", "Manager style add-on", "管理者沟通偏好附加章", "Version: 1.2.0"],
+        "docs/en/sop.md": ["Scan", "Ask lightly", "Exit cleanly", "Manager style add-on"],
+        "docs/zh-CN/sop.md": ["看场", "开口", "接球", "收尾", "管理者沟通偏好附加章"],
         "docs/review-loop.md": ["90/100", "Critical safety gates"],
         "docs/review-report-v1.0.md": ["97/100", "8/8", "44/44", "Final decision"],
         "docs/review-report-v1.1.md": ["97/100", "Role coverage", "16/16", "Final decision"],
+        "docs/review-report-v1.2.md": ["97", "14/14", "10/10", "Final decision"],
         "docs/en/role-scenario-matrix.md": ["Manager +1 or +2", "Gender and identity", "Meal size and purpose"],
         "docs/zh-CN/role-scenario-matrix.md": ["加一或加二", "性别：不按男女分话题", "聚餐人数与性质"],
-        "SOURCES.md": ["2026-08-18", "legal advice"],
+        "docs/en/manager-style-addon.md": ["OHAIR", "Unsafe behavior is not a style", "Add-on release gates"],
+        "docs/zh-CN/manager-style-addon.md": ["观—猜—问—试—校", "不安全行为不是性格", "附加章发布闸门"],
+        "SOURCES.md": ["2026-08-18", "legal advice", "Personality and Leadership", "psychometric instrument"],
     }
     for relative, phrases in required_phrases.items():
         path = ROOT / relative
@@ -124,6 +130,9 @@ def main() -> int:
         "docs/en/role-scenario-matrix.md",
         "docs/zh-CN/role-scenario-matrix.md",
         "docs/review-report-v1.1.md",
+        "docs/en/manager-style-addon.md",
+        "docs/zh-CN/manager-style-addon.md",
+        "docs/review-report-v1.2.md",
     ]
     for relative in refined_files:
         for line_number, line in enumerate(

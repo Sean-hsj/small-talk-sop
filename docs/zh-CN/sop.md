@@ -2,7 +2,7 @@
 
 默认环境：中国大陆以中文沟通的职场。本指南考虑本土企业、民企、国企风格团队、专业机构、制造现场、互联网团队及跨国公司中文场景之间的差异，不把任何一种公司文化写成“中国人都这样”。
 
-[角色 × 场景矩阵](role-scenario-matrix.md) · [一分钟速查](quick-reference.md) · [情景练习](scenarios.md) · [跨文化说明](../cross-cultural-guide.md) · [资料来源](../../SOURCES.md)
+[角色 × 场景矩阵](role-scenario-matrix.md) · [管理者沟通偏好附加章](manager-style-addon.md) · [一分钟速查](quick-reference.md) · [情景练习](scenarios.md) · [跨文化说明](../cross-cultural-guide.md) · [资料来源](../../SOURCES.md)
 
 ## 一、什么算成功
 
@@ -271,7 +271,9 @@
 
 ## 九、中国职场高频场景
 
-同级、下属、直属上级、加一、加二、副职、矩阵经理，以及性别、年龄、已披露家庭阶段、用餐人数和性质的详细组合，见[角色 × 场景矩阵](role-scenario-matrix.md)。
+层级、身份边界、场合、用餐人数和性质的详细组合，见[角色 × 场景矩阵](role-scenario-matrix.md)。
+
+如果要根据上级可观察的偏好调整表达长短、顺序、节奏、细节和渠道，可选读[管理者沟通偏好附加章](manager-style-addon.md)。它不做人格诊断。
 
 ### 9.1 新入职或第一次见
 

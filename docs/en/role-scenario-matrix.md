@@ -2,6 +2,8 @@
 
 Use this after the core [English SOP](sop.md). It helps choose the right depth for a specific person, moment, and group size.
 
+If the person is a manager, the optional [manager communication-style add-on](manager-style-addon.md) can help calibrate delivery without assigning a personality type.
+
 This is a decision aid, not a demographic script. Do not infer gender, age, relationship status, pregnancy, parenthood, health, or sexuality from appearance.
 
 ## 1. Five-question lookup
@@ -92,6 +94,8 @@ Your words carry evaluation pressure even when your tone is casual.
 - Rewarding social participation or penalizing quietness.
 
 ### 2.4 Your manager
+
+After applying the power rules below, use the optional [manager style add-on](manager-style-addon.md) to test a task-specific delivery preference. Do not assign a fixed type.
 
 **Do**
 
@@ -358,3 +362,5 @@ When role, identity, or life stage is uncertain:
 4. Treat volunteered detail as a narrow, one-time opening.
 5. Increase caution with power, privacy, alcohol, travel, or one-to-one settings.
 6. End before the other person must reject you.
+
+Manager style comes after these rules. Adapt format, not truth, ethics, consent, privacy, work access, or necessary disagreement.

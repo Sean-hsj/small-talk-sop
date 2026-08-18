@@ -2,7 +2,7 @@
 
 Default environment: international workplaces, multinational teams, and foreign companies operating in China. This is not a universal “Western culture” script. Adapt to the person, team, company, region, and applicable policy.
 
-[Role × scenario matrix](role-scenario-matrix.md) · [One-minute card](quick-reference.md) · [Practice scenarios](scenarios.md) · [Cross-cultural guide](../cross-cultural-guide.md) · [Sources](../../SOURCES.md)
+[Role × scenario matrix](role-scenario-matrix.md) · [Manager style add-on](manager-style-addon.md) · [One-minute card](quick-reference.md) · [Practice scenarios](scenarios.md) · [Cross-cultural guide](../cross-cultural-guide.md) · [Sources](../../SOURCES.md)
 
 ## 1. The outcome
 
@@ -281,7 +281,9 @@ If the other person raises a Level 3 topic, you may listen without probing. In a
 
 ## 8. Situation-specific procedures
 
-For detailed combinations of peer, direct report, manager, manager +1/+2, deputy or matrix manager, gender and identity, age and disclosed family context, moment, meal purpose, and group size, use the [role × scenario matrix](role-scenario-matrix.md).
+For combinations of power, identity safeguards, moment, meal purpose, and group size, use the [role × scenario matrix](role-scenario-matrix.md).
+
+For an optional, non-diagnostic way to calibrate length, order, pace, detail, and channel with a manager, use the [manager communication-style add-on](manager-style-addon.md).
 
 ### 8.1 First day or first meeting
 
