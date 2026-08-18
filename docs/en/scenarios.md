@@ -1,5 +1,7 @@
 # English workplace small talk — practice scenarios
 
+[← Home](../../README.md) · [Core SOP](sop.md) · [Role matrix](role-scenario-matrix.md) · [One-minute card](quick-reference.md)
+
 Use these for solo rehearsal, pair role-play, manager training, or review. Read the setup, try your own response, then compare. The “good move” is one safe option, not the only correct line.
 
 ## 1. Headphones at a desk

@@ -1,8 +1,10 @@
 # Workplace Small Talk SOP — English
 
-Default environment: international workplaces, multinational teams, and foreign companies operating in China. This is not a universal “Western culture” script. Adapt to the person, team, company, region, and applicable policy.
+[← Home](../../README.md) · [Role matrix](role-scenario-matrix.md) · [Manager add-on](manager-style-addon.md) · [One-minute card](quick-reference.md)
 
-[Role × scenario matrix](role-scenario-matrix.md) · [Manager style add-on](manager-style-addon.md) · [One-minute card](quick-reference.md) · [Practice scenarios](scenarios.md) · [Cross-cultural guide](../cross-cultural-guide.md) · [Sources](../../SOURCES.md)
+[Practice scenarios](scenarios.md) · [Cross-cultural guide](../cross-cultural-guide.md) · [Sources](../../SOURCES.md)
+
+Default environment: international workplaces, multinational teams, and foreign companies operating in China. This is not a universal “Western culture” script. Adapt to the person, team, company, region, and applicable policy.
 
 ## 1. The outcome
 

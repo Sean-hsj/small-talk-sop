@@ -14,11 +14,13 @@ REQUIRED = [
     "README.md",
     "CONTRIBUTING.md",
     "SOURCES.md",
+    "assets/illustrations/README.md",
     "docs/cross-cultural-guide.md",
     "docs/review-loop.md",
     "docs/review-report-v1.0.md",
     "docs/review-report-v1.1.md",
     "docs/review-report-v1.2.md",
+    "docs/review-report-v1.3.md",
     "docs/en/sop.md",
     "docs/en/role-scenario-matrix.md",
     "docs/en/manager-style-addon.md",
@@ -30,7 +32,18 @@ REQUIRED = [
     "docs/zh-CN/quick-reference.md",
     "docs/zh-CN/scenarios.md",
 ]
+REQUIRED_ASSETS = [
+    "assets/illustrations/coffee-hello.png",
+    "assets/illustrations/lunch-easy-exit.png",
+    "assets/illustrations/manager-calibration.png",
+]
+MAX_ASSET_BYTES = 1_200_000
 LINK_RE = re.compile(r"(?<!!)\[[^\]]+\]\(([^)]+)\)")
+MARKDOWN_IMG_RE = re.compile(r"!\[([^\]]*)\]\(([^)]+)\)")
+HTML_LINK_RE = re.compile(r'<a\b[^>]*\bhref="([^"]+)"[^>]*>', re.IGNORECASE)
+HTML_IMG_RE = re.compile(r'<img\b[^>]*>', re.IGNORECASE)
+HTML_SRC_RE = re.compile(r'\bsrc="([^"]+)"', re.IGNORECASE)
+HTML_ALT_RE = re.compile(r'\balt="([^"]*)"', re.IGNORECASE)
 HEADING_RE = re.compile(r"^#{1,6}\s+(.+?)\s*$", re.MULTILINE)
 PLACEHOLDER_RE = re.compile(r"\b(?:TODO|TBD|FIXME)\b", re.IGNORECASE)
 SCENARIO_RE = re.compile(r"^## (\d+)\.\s+", re.MULTILINE)
@@ -85,6 +98,16 @@ def main() -> int:
         if not (ROOT / relative).is_file():
             errors.append(f"missing required file: {relative}")
 
+    for relative in REQUIRED_ASSETS:
+        path = ROOT / relative
+        if not path.is_file():
+            errors.append(f"missing required asset: {relative}")
+            continue
+        if path.stat().st_size > MAX_ASSET_BYTES:
+            errors.append(f"{relative}: asset exceeds {MAX_ASSET_BYTES} bytes")
+        if path.read_bytes()[:8] != b"\x89PNG\r\n\x1a\n":
+            errors.append(f"{relative}: required asset is not a valid PNG")
+
     markdown_files = sorted(ROOT.rglob("*.md"))
     for path in markdown_files:
         if ".git" in path.parts:
@@ -96,15 +119,43 @@ def main() -> int:
             issue = check_internal_link(path, target)
             if issue:
                 errors.append(issue)
+        for alt, target in MARKDOWN_IMG_RE.findall(text):
+            if not alt.strip():
+                errors.append(f"{path.relative_to(ROOT)}: Markdown image is missing alt text")
+            issue = check_internal_link(path, target)
+            if issue:
+                errors.append(issue)
+        for target in HTML_LINK_RE.findall(text):
+            if target.startswith("#"):
+                continue
+            issue = check_internal_link(path, target)
+            if issue:
+                errors.append(issue)
+        for tag in HTML_IMG_RE.findall(text):
+            alt_match = HTML_ALT_RE.search(tag)
+            if not alt_match or not alt_match.group(1).strip():
+                errors.append(f"{path.relative_to(ROOT)}: HTML image is missing alt text")
+            src_match = HTML_SRC_RE.search(tag)
+            if not src_match:
+                errors.append(f"{path.relative_to(ROOT)}: HTML image is missing src")
+                continue
+            target = src_match.group(1)
+            if target.startswith(("http://", "https://")):
+                continue
+            issue = check_internal_link(path, target)
+            if issue:
+                errors.append(issue)
 
     required_phrases = {
-        "README.md": ["English SOP", "中文版 SOP", "Manager style add-on", "管理者沟通偏好附加章", "Version: 1.2.0"],
-        "docs/en/sop.md": ["Scan", "Ask lightly", "Exit cleanly", "Manager style add-on"],
+        "README.md": ["English SOP", "中文版 SOP", "Manager style add-on", "管理者沟通偏好附加章", "Version 1.3.0", "<details>"],
+        "assets/illustrations/README.md": ["pure white", "Prompt set", "1.2 MB"],
+        "docs/en/sop.md": ["Scan", "Ask lightly", "Exit cleanly", "Manager add-on"],
         "docs/zh-CN/sop.md": ["看场", "开口", "接球", "收尾", "管理者沟通偏好附加章"],
         "docs/review-loop.md": ["90/100", "Critical safety gates"],
         "docs/review-report-v1.0.md": ["97/100", "8/8", "44/44", "Final decision"],
         "docs/review-report-v1.1.md": ["97/100", "Role coverage", "16/16", "Final decision"],
         "docs/review-report-v1.2.md": ["97", "14/14", "10/10", "Final decision"],
+        "docs/review-report-v1.3.md": ["97", "14/14", "GitHub rendering", "Final decision"],
         "docs/en/role-scenario-matrix.md": ["Manager +1 or +2", "Gender and identity", "Meal size and purpose"],
         "docs/zh-CN/role-scenario-matrix.md": ["加一或加二", "性别：不按男女分话题", "聚餐人数与性质"],
         "docs/en/manager-style-addon.md": ["OHAIR", "Unsafe behavior is not a style", "Add-on release gates"],
@@ -133,6 +184,7 @@ def main() -> int:
         "docs/en/manager-style-addon.md",
         "docs/zh-CN/manager-style-addon.md",
         "docs/review-report-v1.2.md",
+        "docs/review-report-v1.3.md",
     ]
     for relative in refined_files:
         for line_number, line in enumerate(

@@ -1,8 +1,10 @@
 # 职场寒暄 SOP——中文版
 
-默认环境：中国大陆以中文沟通的职场。本指南考虑本土企业、民企、国企风格团队、专业机构、制造现场、互联网团队及跨国公司中文场景之间的差异，不把任何一种公司文化写成“中国人都这样”。
+[← 返回首页](../../README.md) · [角色矩阵](role-scenario-matrix.md) · [管理者附加章](manager-style-addon.md) · [一分钟速查](quick-reference.md)
 
-[角色 × 场景矩阵](role-scenario-matrix.md) · [管理者沟通偏好附加章](manager-style-addon.md) · [一分钟速查](quick-reference.md) · [情景练习](scenarios.md) · [跨文化说明](../cross-cultural-guide.md) · [资料来源](../../SOURCES.md)
+[情景练习](scenarios.md) · [跨文化说明](../cross-cultural-guide.md) · [资料来源](../../SOURCES.md)
+
+默认环境：中国大陆以中文沟通的职场。本指南考虑本土企业、民企、国企风格团队、专业机构、制造现场、互联网团队及跨国公司中文场景之间的差异，不把任何一种公司文化写成“中国人都这样”。
 
 ## 一、什么算成功
 

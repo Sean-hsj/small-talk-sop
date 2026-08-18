@@ -1,5 +1,9 @@
 # 中文职场角色与场景矩阵
 
+[← 返回首页](../../README.md) · [主 SOP](sop.md) · [管理者附加章](manager-style-addon.md) · [情景练习](scenarios.md)
+
+![几位同事一起吃午饭，另一位同事友好挥手离开，没有人施压挽留](../../assets/illustrations/lunch-easy-exit.png)
+
 先读[中文版主 SOP](sop.md)，再用本表查具体人、具体场合和具体人数。
 
 面对管理者时，可以选读[管理者沟通偏好附加章](manager-style-addon.md)，调整表达方式，但不给人贴固定性格标签。

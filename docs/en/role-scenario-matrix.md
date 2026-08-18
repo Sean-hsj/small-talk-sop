@@ -1,5 +1,9 @@
 # English role and scenario matrix
 
+[← Home](../../README.md) · [Core SOP](sop.md) · [Manager add-on](manager-style-addon.md) · [Practice scenarios](scenarios.md)
+
+![Coworkers share lunch while another colleague leaves with a friendly wave and no pressure to stay](../../assets/illustrations/lunch-easy-exit.png)
+
 Use this after the core [English SOP](sop.md). It helps choose the right depth for a specific person, moment, and group size.
 
 If the person is a manager, the optional [manager communication-style add-on](manager-style-addon.md) can help calibrate delivery without assigning a personality type.

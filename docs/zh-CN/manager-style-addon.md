@@ -1,5 +1,9 @@
 # 不同管理者沟通偏好附加章——中文版
 
+[← 返回首页](../../README.md) · [主 SOP](sop.md) · [角色矩阵](role-scenario-matrix.md) · [一分钟速查](quick-reference.md)
+
+![员工和上级先试简短便签，再查看详细材料，最后记下双方确认的下一步](../../assets/illustrations/manager-calibration.png)
+
 请先读[中文版主 SOP](sop.md)和[角色 × 场景矩阵](role-scenario-matrix.md)。本章帮助员工适应上级可观察的沟通偏好，但不做人格诊断，也不要求把自己演成另一种人。
 
 ## 一、适用范围与红线

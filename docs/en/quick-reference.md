@@ -1,5 +1,7 @@
 # English workplace small talk — one-minute card
 
+[← Home](../../README.md) · [Core SOP](sop.md) · [Role matrix](role-scenario-matrix.md) · [Practice scenarios](scenarios.md)
+
 Use in international and multinational workplaces. Individual and team preferences beat country stereotypes.
 
 ## SAFE

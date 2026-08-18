@@ -1,86 +1,156 @@
-# Workplace Small Talk SOP / 职场寒暄操作手册
+![Two coworkers exchange a brief greeting beside an office coffee machine while one continues walking](assets/illustrations/coffee-hello.png)
 
-一套给“不知道该怎么和同事闲聊”的人使用的开源、可练习、可审校手册。
+<h1 align="center">Workplace Small Talk SOP</h1>
 
-An open, practice-ready, reviewable playbook for people who do not know what to say to colleagues.
+<p align="center">
+  <strong>职场寒暄操作手册</strong><br>
+  A bilingual, practice-ready playbook for people who never know what to say next.<br>
+  给“不知道下一句说什么”的人，一套能直接照着练的双语职场 SOP。
+</p>
 
-> Small talk is not a performance, a personality test, or a way to extract private information. It is a brief, optional exchange that signals: “I noticed you, I’m approachable, and there’s no pressure to keep talking.”
+<p align="center">
+  <img alt="Version 1.3.0" src="https://img.shields.io/badge/version-1.3.0-0B45B5?style=flat-square">
+  <img alt="English and Simplified Chinese" src="https://img.shields.io/badge/languages-English%20%2B%20简体中文-111111?style=flat-square">
+  <img alt="Reviewed for safety and accessibility" src="https://img.shields.io/badge/review-safety%20%2B%20accessibility-0B45B5?style=flat-square">
+  <a href="LICENSE"><img alt="MIT License" src="https://img.shields.io/badge/license-MIT-111111?style=flat-square"></a>
+</p>
+
+<p align="center">
+  <a href="docs/en/sop.md"><strong>Read in English</strong></a>
+  &nbsp;·&nbsp;
+  <a href="docs/zh-CN/sop.md"><strong>阅读中文版</strong></a>
+  &nbsp;·&nbsp;
+  <a href="#02--try-one-now--现在就试一个"><strong>Try one now</strong></a>
+</p>
+
+> [!NOTE]
+> Small talk is not a performance or a way to extract private information. It is a brief, optional signal: “I noticed you, I’m approachable, and there is no pressure to keep talking.”
 >
-> 寒暄不是表演，也不是考你会不会来事，更不是套隐私。它是一段简短、可退出的互动，传递的是：“我愿意友好共事，也尊重你随时结束。”
+> 寒暄不是表演，也不是套隐私。它只传递一个简短信号：“我愿意友好共事，也尊重你随时结束。”
 
-## Choose your guide / 选择版本
+## 01 · Choose your route / 选择入口
 
-| Guide | Designed for | Start here |
+| What do you need? / 你现在需要什么？ | English | 中文 |
 | --- | --- | --- |
-| English SOP | International workplaces and multinational teams, including foreign companies in China | [Full SOP](docs/en/sop.md) · [Role × scenario matrix](docs/en/role-scenario-matrix.md) · [Manager style add-on](docs/en/manager-style-addon.md) · [One-minute card](docs/en/quick-reference.md) · [Practice scenarios](docs/en/scenarios.md) |
-| 中文版 SOP | 中国职场，包括本土企业、事业单位风格团队及中文沟通场景 | [完整 SOP](docs/zh-CN/sop.md) · [角色 × 场景矩阵](docs/zh-CN/role-scenario-matrix.md) · [管理者沟通偏好附加章](docs/zh-CN/manager-style-addon.md) · [一分钟速查](docs/zh-CN/quick-reference.md) · [情景练习](docs/zh-CN/scenarios.md) |
+| The complete operating procedure / 完整流程 | [English SOP](docs/en/sop.md) | [中文版 SOP](docs/zh-CN/sop.md) |
+| A role, meal, or return-from-leave situation / 角色、饭局或返岗场景 | [Role × scenario matrix](docs/en/role-scenario-matrix.md) | [角色 × 场景矩阵](docs/zh-CN/role-scenario-matrix.md) |
+| A manager with a different communication preference / 不同沟通偏好的上级 | [Manager style add-on](docs/en/manager-style-addon.md) | [管理者沟通偏好附加章](docs/zh-CN/manager-style-addon.md) |
+| Something I can keep beside me / 一张随手可查的卡片 | [One-minute card](docs/en/quick-reference.md) | [一分钟速查](docs/zh-CN/quick-reference.md) |
+| A scene to rehearse / 一个可练习的情景 | [39 practice scenarios](docs/en/scenarios.md) | [43 个情景练习](docs/zh-CN/scenarios.md) |
 
-The two guides share safety principles, but they are not line-by-line translations. Their greetings, titles, hierarchy cues, indirect refusals, meal culture, chat etiquette, and examples are designed independently for their default environments.
+The two guides share safety principles but are not line-by-line translations. Titles, hierarchy cues, indirect refusals, meal culture, chat etiquette, and examples are designed independently for their default workplaces.
 
-两个版本共享安全底线，但并非逐句翻译。称呼方式、层级信号、含蓄拒绝、饭局文化、群聊礼仪和示例，均按各自默认职场独立设计。
+两个版本共享安全底线，但不是逐句翻译。称呼、层级信号、含蓄拒绝、饭局文化、群聊礼仪和示例，均按各自默认职场独立设计。
 
-## The 20-second version / 20 秒上手
+## 02 · Try one now / 现在就试一个
+
+No account, worksheet, or perfect personality required. Open a scene, make your choice, then reveal the safer move.
+
+不用注册，不用先变外向。打开一个场景，先想自己的回答，再展开参考动作。
+
+<details>
+<summary><strong>Coffee queue · The one-word reply</strong> — Your coworker says “Busy” and looks back at the machine. What next?</summary>
+
+> “Same here. I’ll let you get back to it—good luck today.”
+
+A short answer plus attention returning elsewhere is enough. End warmly; do not open three more topics.
+
+</details>
+
+<details>
+<summary><strong>茶水间 · 对方只回“还行”</strong>——接下来该说什么？</summary>
+
+> “那就好。你先忙，我去接杯水。”
+
+短答加注意力转开，已经足够。友好收尾，不必继续证明自己会聊天。
+
+</details>
+
+<details>
+<summary><strong>Manager · Headline or context?</strong> — You cannot tell which format your manager wants.</summary>
+
+> “For these updates, would you prefer the headline first or the context first?”
+
+Ask about this task. Do not diagnose a personality type, imitate mannerisms, or remove necessary disagreement.
+
+</details>
+
+<details>
+<summary><strong>午饭 · 有人提前离开</strong>——要不要问“为什么这么早走”？</summary>
+
+> “好，下午见。”
+
+不用追问原因，也不用起哄挽留。容易离开的饭局，才是真的自愿。
+
+</details>
+
+## 03 · The tiny loop / 最小闭环
 
 ### English: SAFE
 
 1. **Scan** — Is this a good moment? Is there a power or privacy concern?
-2. **Ask lightly** — Use shared context or a low-pressure, open question.
-3. **Follow** — Acknowledge, ask at most one natural follow-up, and share a little too.
+2. **Ask lightly** — Use shared context or one low-pressure question.
+3. **Follow** — Acknowledge, follow at most one thread, and share a little too.
 4. **Exit cleanly** — Leave on a warm note before the exchange becomes a burden.
 
-Example: “Morning, Maya. How’s your week going?” → “That deadline sounds intense. Mine has been meeting-heavy too.” → “I’ll let you get back to it—good luck with the launch.”
+> “Morning, Maya. How’s your week going?” → “That deadline sounds intense. Mine has been meeting-heavy too.” → “I’ll let you get back to it—good luck with the launch.”
 
 ### 中文：看—开—接—收
 
 1. **看场**——现在方便吗？场合公开吗？有没有明显的层级压力？
-2. **开口**——从共同情境或低压力话题开始，给对方不展开的空间。
-3. **接球**——回应重点，最多自然追问一次，也适度分享自己，避免审问感。
-4. **收尾**——趁气氛还好时主动结束，不把寒暄变成负担。
+2. **开口**——从共同情境或一个低压力问题开始。
+3. **接球**——先回应，最多跟一个线索，也适度分享自己。
+4. **收尾**——趁气氛还轻松时主动结束。
 
-示例：“早，今天路上还顺利吗？” → “那还挺幸运，我这边差点没挤上车。” → “你先忙，回头见。”
+> “早，今天路上还顺利吗？” → “那还挺幸运，我差点没挤上车。” → “你先忙，回头见。”
 
-## Non-negotiable safety rules / 共同底线
+## 04 · Seven safety rails / 七条安全护栏
 
-1. **Optional means optional.** A short answer, no return question, looking away, turning back to work, or repeated delay is a complete answer. Do not make someone refuse twice.
-2. **Power changes the meaning.** A manager’s “friendly question” may feel mandatory. The more power you have, the lighter the topic and the clearer the exit must be.
-3. **Reciprocity, not interrogation.** After one or two questions, reflect or share something yourself. Never run down a checklist of personal questions.
-4. **No “safe topic” is universally safe.** Food can touch religion or health; weekends can touch caregiving or money; family can touch loss or fertility. Follow the other person’s lead.
-5. **Do not diagnose identity from appearance, name, accent, body, partner, clothing, or calendar.** Ask how people want to be addressed; do not ask them to explain who they are.
-6. **Private stays private.** Do not repeat a personal detail in a group, turn it into a nickname, use it for gossip, or paste it into an AI tool without an approved work need and proper safeguards.
-7. **Repair once, then change course.** “Sorry—that was too personal. No need to answer.” Do not defend the question or force the other person to comfort you.
+1. **Optional means optional / 自愿才算自愿。** A short answer, no return question, turning back to work, or repeated delay is a complete answer. 不让对方拒绝第二次。
+2. **Power changes the meaning / 权力会改变含义。** A manager’s friendly question may feel mandatory. 权力越大，话题越浅，出口越明显。
+3. **Reciprocity, not interrogation / 互惠，不审问。** After one or two questions, reflect or share something yourself. 问一两句后要回应或分享。
+4. **No topic is universally safe / 没有绝对安全的话题。** Food, weekends, and family can touch religion, money, caregiving, loss, or health. 跟随具体的人，不跟随题库。
+5. **Do not diagnose identity / 不从外表猜身份。** Never infer gender, partner, family, disability, religion, nationality, age, diet, or alcohol use from appearance or names.
+6. **Private stays private / 私下信息留在私下。** Do not repeat, nickname, gossip about, screenshot, or feed a personal detail into an unapproved tool.
+7. **Repair once, then change course / 简短修复，然后换题。** “Sorry—that was too personal. You don’t need to answer.” 不辩解，也不让对方安慰你。
 
-中文底线与以上相同：自愿、看权力、讲互惠、不猜身份、不传隐私、冒犯后简短修复。尤其不要把“大家都这么聊”“我只是关心你”当作继续追问的理由。
+> [!IMPORTANT]
+> Repeated sexual, discriminatory, coercive, retaliatory, or threatening conduct is not awkward small talk. Use workplace policy, safety, representation, or appropriate external channels. This repository is not legal or crisis advice.
 
-## What is in this repository
+## 05 · What is inside / 仓库里有什么
 
-- Full operating procedures for choosing a moment, opening, listening, following up, changing topics, and exiting
-- Separate English and Chinese topic ladders, workplace-culture notes, and natural scripts
-- Role, reporting-line, occasion, meal-size, and voluntarily disclosed life-stage matrices
-- An optional, non-diagnostic manager communication-style calibration add-on in each locale
-- In-person, remote, hybrid, cross-level, client, meal, group-chat, and return-from-leave scenarios
-- Boundaries for privacy, harassment, discrimination, gossip, alcohol, health, family, religion, and politics
-- Accommodations for introversion, social anxiety, neurodiversity, disability, limited energy, and second-language use
-- Recovery scripts for awkward silence, forgotten names, accidental offense, and unwanted questions
-- A documented [research and review loop](docs/review-loop.md), [latest add-on review](docs/review-report-v1.2.md), prior review reports, [cross-cultural design notes](docs/cross-cultural-guide.md), and [source register](SOURCES.md)
+| Layer | What it gives you |
+| --- | --- |
+| **Core SOPs** | A beginning, middle, ending, topic ladder, boundary language, and repair scripts |
+| **Role × scenario matrices** | Peers, reports, direct and skip-level managers, meals, group sizes, age and voluntarily disclosed life context |
+| **Manager add-ons** | A non-diagnostic Observe → Hypothesize → Ask → Implement → Recalibrate loop |
+| **Quick cards** | One-minute reminders for live use |
+| **Practice files** | 82 sequential scenes for solo rehearsal, pairs, or manager training |
+| **Safety architecture** | Privacy, harassment, discrimination, alcohol, accessibility, remote work, and retaliation boundaries |
+| **Review trail** | [Research loop](docs/review-loop.md), [v1.2 content review](docs/review-report-v1.2.md), [v1.3 visual review](docs/review-report-v1.3.md), [cross-cultural notes](docs/cross-cultural-guide.md), and [sources](SOURCES.md) |
 
-## What this SOP is not
+The SOP supports introversion, social anxiety, neurodiversity, disability, limited energy, AAC, and second-language use. Work access must never depend on sociability, camera use, event attendance, alcohol, or personal disclosure.
 
-- It is not a guarantee that every colleague wants to talk.
-- It is not a substitute for company policy, local law, harassment reporting, or professional mental-health support.
-- It is not a script to manipulate people, force “culture fit,” collect personal information, network upward, flirt, sell, or manage performance indirectly.
-- It does not claim that every person in a country communicates the same way. Person, team, industry, company, region, and relationship usually predict more than nationality alone.
+## 06 · Use it without making it weird
 
-## Use it as a team
-
-Individuals can carry the one-minute card and practice one scenario at a time. Teams can use the scenario files for role-play, then score the exchange with the rubric in [Review Loop](docs/review-loop.md). Managers should read the power and inclusion sections before encouraging social activities.
+- **Alone:** keep the one-minute card nearby and rehearse one scene, not the entire library.
+- **With a teammate:** hide the suggested move, role-play for 30 seconds, then compare.
+- **As a manager:** read the power and inclusion rules before inviting anyone to socialize.
+- **As a team:** rotate formats and keep decisions in official work channels. Always offer a quiet, remote, or no-social option.
 
 If local norms or company rules conflict with this repository, follow the stricter safety standard and propose an evidence-backed update through [CONTRIBUTING.md](CONTRIBUTING.md).
 
-## Version and status
+## 07 · Scope, status, and license
 
-- Version: 1.2.0
-- Last substantive review: 2026-08-18
-- Default locale: English for international/multinational workplaces; 简体中文 for workplaces communicating primarily in Chinese in mainland China
-- License: [MIT](LICENSE)
+- **Version:** 1.3.0
+- **Last substantive content review:** 2026-08-18
+- **Last visual and accessibility review:** 2026-08-18
+- **Default locales:** international/multinational English; 简体中文 for workplaces communicating primarily in Chinese in mainland China
+- **License:** [MIT](LICENSE)
+- **Illustration system:** [asset notes, alt text, and art direction](assets/illustrations/README.md)
 
-The project is a living SOP. Sources support the design, but examples are guidance—not legal advice or universal cultural facts.
+This is guidance, not a personality test, a guarantee that every colleague wants to talk, or a substitute for company policy, local law, or professional support. Person, team, industry, company, region, and relationship matter more than nationality alone.
+
+<p align="center">
+  <strong>Warmth plus freedom. 有温度，也有自由。</strong>
+</p>

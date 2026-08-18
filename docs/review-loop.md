@@ -144,3 +144,9 @@ The role, reporting-line, occasion, meal-size, gender/identity, age, and volunta
 The optional manager communication-style model, bilingual scripts, rejection of fixed personality types, audit rounds, 14 adversarial tests, and 10 release gates are recorded in the [v1.2.0 review report](review-report-v1.2.md).
 
 Any future change to the add-on must rerun all 10 add-on gates. A diagnosis, identity stereotype, appeasement tactic, abuse-as-style exception, or missing preference-check loop blocks release.
+
+## Visual review record: v1.3.0
+
+The illustration system, GitHub-native practice interactions, navigation redesign, accessibility review, asset limits, 14 visual gates, and rendering checks are recorded in the [v1.3.0 review report](review-report-v1.3.md).
+
+Visual changes must preserve text parity, meaningful alt text, optional interaction, dark-theme legibility, local asset limits, and the existing content-safety gates.

@@ -43,6 +43,17 @@ Use the scoring rubric and release gate in [docs/review-loop.md](docs/review-loo
 - Separate observation from stereotype: “This team uses first names” is useful; “Americans are informal” is too broad.
 - Translate meaning only when appropriate. Do not force one-to-one symmetry between the two guides.
 
+## Visual and interaction contributions
+
+- Keep every rule and script available as text. An image may support memory, but it must not carry required information alone.
+- Add concise, action-based alt text at every image use. Localize meaning naturally instead of translating alt text mechanically.
+- Follow the [illustration system](assets/illustrations/README.md): black pen-and-ink, pure white, sparse cobalt accents, and ordinary workplace gestures.
+- Avoid identity stereotypes, sexualization, authority worship, compulsory bonding, stock characters, decorative clutter, embedded text, and visual jokes that weaken consent.
+- Keep each raster below 1.2 MB. Add a new, descriptive filename instead of silently overwriting an approved asset.
+- Use GitHub-native links, callouts, tables, and `<details>` for interaction. Do not require scripts, tracking, animation, pointer-only gestures, or separate hosting.
+- If an asset is generated or substantially transformed by a tool, record the prompt set, production date, selection or editing steps, and limitations in the asset notes.
+- Rerun the visual gates in the [v1.3 review report](docs/review-report-v1.3.md) and the repository checker before publishing.
+
 ## Versioning
 
 - Patch: wording, link, or example correction with no behavioral change

@@ -1,5 +1,9 @@
 # Manager communication-style add-on — English
 
+[← Home](../../README.md) · [Core SOP](sop.md) · [Role matrix](role-scenario-matrix.md) · [One-minute card](quick-reference.md)
+
+![An employee and manager test a brief note, review more detail, and record an agreed next step](../../assets/illustrations/manager-calibration.png)
+
 Use this after the [English SOP](sop.md) and [role × scenario matrix](role-scenario-matrix.md). It helps you adapt to a manager's observable communication preferences without diagnosing personality or performing a false version of yourself.
 
 ## 1. Scope and hard limits
