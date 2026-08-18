@@ -21,6 +21,7 @@ REQUIRED = [
     "docs/review-report-v1.1.md",
     "docs/review-report-v1.2.md",
     "docs/review-report-v1.3.md",
+    "docs/review-report-v1.4.md",
     "docs/en/sop.md",
     "docs/en/role-scenario-matrix.md",
     "docs/en/manager-style-addon.md",
@@ -147,7 +148,7 @@ def main() -> int:
                 errors.append(issue)
 
     required_phrases = {
-        "README.md": ["English SOP", "中文版 SOP", "Manager style add-on", "管理者沟通偏好附加章", "Version 1.3.0", "<details>"],
+        "README.md": ["English track", "中文入口", "English exercise", "中文小练习", "Version 1.4.0", "<details>"],
         "assets/illustrations/README.md": ["pure white", "Prompt set", "1.2 MB"],
         "docs/en/sop.md": ["Scan", "Ask lightly", "Exit cleanly", "Manager add-on"],
         "docs/zh-CN/sop.md": ["看场", "开口", "接球", "收尾", "管理者沟通偏好附加章"],
@@ -156,6 +157,7 @@ def main() -> int:
         "docs/review-report-v1.1.md": ["97/100", "Role coverage", "16/16", "Final decision"],
         "docs/review-report-v1.2.md": ["97", "14/14", "10/10", "Final decision"],
         "docs/review-report-v1.3.md": ["97", "14/14", "GitHub rendering", "Final decision"],
+        "docs/review-report-v1.4.md": ["97", "12/12", "translationese", "Final decision"],
         "docs/en/role-scenario-matrix.md": ["Manager +1 or +2", "Gender and identity", "Meal size and purpose"],
         "docs/zh-CN/role-scenario-matrix.md": ["加一或加二", "性别：不按男女分话题", "聚餐人数与性质"],
         "docs/en/manager-style-addon.md": ["OHAIR", "Unsafe behavior is not a style", "Add-on release gates"],
@@ -178,6 +180,7 @@ def main() -> int:
             errors.append(f"{relative}: scenario numbers are not sequential")
 
     refined_files = [
+        "README.md",
         "docs/en/role-scenario-matrix.md",
         "docs/zh-CN/role-scenario-matrix.md",
         "docs/review-report-v1.1.md",
@@ -185,6 +188,7 @@ def main() -> int:
         "docs/zh-CN/manager-style-addon.md",
         "docs/review-report-v1.2.md",
         "docs/review-report-v1.3.md",
+        "docs/review-report-v1.4.md",
     ]
     for relative in refined_files:
         for line_number, line in enumerate(
@@ -194,6 +198,24 @@ def main() -> int:
                 errors.append(
                     f"{relative}:{line_number}: refined paragraph exceeds 240 characters"
                 )
+
+    readme = (ROOT / "README.md").read_text(encoding="utf-8")
+    stale_homepage_phrases = [
+        "寒暄不是表演，也不是套隐私",
+        "它只传递一个简短信号",
+        "自愿才算自愿",
+        "中性默认",
+        "社交带宽",
+        "重新校准",
+    ]
+    for phrase in stale_homepage_phrases:
+        if phrase in readme:
+            errors.append(f"README.md: stale translationese phrase: {phrase}")
+    if readme.count("<details>") != 4 or readme.count("<summary>") != 4:
+        errors.append("README.md: expected four complete interactive examples")
+    for heading in HEADING_RE.findall(readme):
+        if " / " in heading:
+            errors.append(f"README.md: bilingual heading still paired inline: {heading}")
 
     if errors:
         print("Documentation checks failed:")

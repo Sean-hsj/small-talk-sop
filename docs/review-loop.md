@@ -150,3 +150,9 @@ Any future change to the add-on must rerun all 10 add-on gates. A diagnosis, ide
 The illustration system, GitHub-native practice interactions, navigation redesign, accessibility review, asset limits, 14 visual gates, and rendering checks are recorded in the [v1.3.0 review report](review-report-v1.3.md).
 
 Visual changes must preserve text parity, meaningful alt text, optional interaction, dark-theme legibility, local asset limits, and the existing content-safety gates.
+
+## Chinese homepage voice review: v1.4.0
+
+The README bilingual structure, independent Chinese copy, translationese removal, safety-meaning regression, and GitHub rendering checks are recorded in the [v1.4.0 review report](review-report-v1.4.md).
+
+Future bilingual landing-page changes must keep Chinese and English in separate sections where practical. Chinese should be written for the situation, not attached sentence by sentence to the English source.
